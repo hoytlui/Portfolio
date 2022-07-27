@@ -1,6 +1,6 @@
 # My Portfolio
 
-- [Resume](https://www.dropbox.com/s/ydf1x3k1tik2bop/Hoyt%20Lui%20Resume.pdf)
+- [Resume](https://www.dropbox.com/s/0r3m9xaepft2pog/Hoyt%20Lui%20Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/hoytlui/)
 - [Personal website](https://www.hoytlui.com)
 
