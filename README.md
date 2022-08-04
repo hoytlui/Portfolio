@@ -11,7 +11,7 @@
 
 ## [News Classification with Natural Language Processing and Deep Learning](https://github.com/hoytlui/News-Classification-NLP-Deep-Learning)
 - Downloaded financial news data from one of the Kaggle datasets
-- Applied <b>deep learning</b> and <b>NLP</b> to classify news into 7 types (Redundant/meaningless, Analyst action, Earnings, Corporate action, Merger and acquisition, Company guidance, Options) through 2 models - rules-based and manually-labelled
+- Applied deep learning and NLP to classify news into 7 types (Redundant/meaningless, Analyst action, Earnings, Corporate action, Merger and acquisition, Company guidance, Options) through 2 models - rules-based and manually-labelled
 - Preprocessed data using tokenization to break down text strings into chunks of words, then converted words into sequences of integers using sequence padding
 - Implemented sequential model along with features like 1) pooling layers to summarize the presence of features in the patches of the feature map, and 2) early stopping to reduce overfitting the model
 - Recommended manually-labelled model and suggested ways of improvement for a more sophicated model
