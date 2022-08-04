@@ -4,6 +4,11 @@
 - [LinkedIn](https://www.linkedin.com/in/hoytlui/)
 - [Personal website](https://www.hoytlui.com)
 
+## [Stock Selection Model](https://github.com/hoytlui/Stock-Selection-Model)
+- Downloaded stock data such as symbols, currency, sector, company name, stock price, etc
+- Built program through data manipulation and visualization to create strategies and backtest performance based on stock trading and financial knowledge
+<img src="https://github.com/hoytlui/Stock-Selection-Model/blob/main/Images/technical_analysis_TSLA_2y.png" width=800>
+
 ## [News Classification with Natural Language Processing and Deep Learning](https://github.com/hoytlui/News-Classification-NLP-Deep-Learning)
 - Downloaded financial news data from one of the Kaggle datasets
 - Applied <b>deep learning</b> and <b>NLP</b> to classify news into 7 types (Redundant/meaningless, Analyst action, Earnings, Corporate action, Merger and acquisition, Company guidance, Options) through 2 models - rules-based and manually-labelled
