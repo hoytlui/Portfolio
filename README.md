@@ -1,8 +1,14 @@
 # My Portfolio
 
-- [Resume](https://www.dropbox.com/s/0r3m9xaepft2pog/Hoyt%20Lui%20Resume.pdf)
+- [Resume](https://www.dropbox.com/s/g3npd9aowoxfgji/Hoyt%20Lui%20Resume.pdf?dl=0)
 - [LinkedIn](https://www.linkedin.com/in/hoytlui/)
 - [Personal website](https://www.hoytlui.com)
+
+
+## [Mean Reverting Strategy on FANGMA Stocks](https://github.com/hoytlui/Mean-Reverting-Quant-Research)
+- Calculated the average equal-weighted portfolio daily return and assign weights to each security based on their distance to the portfolio return
+- Backtested strategy by finding its Sharpe ratio and maximum drawdown
+<img src="https://github.com/hoytlui/Mean-Reverting-Quant-Research/blob/main/images/daily_percent_change.png" width=400>
 
 ## [Stock Selection Model](https://github.com/hoytlui/Stock-Selection-Model)
 - Downloaded stock data such as symbols, currency, sector, company name, stock price, etc
